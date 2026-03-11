@@ -1,0 +1,4 @@
+行业：industry
+持仓：holdings（最标准）、positions（侧重仓位）
+关注：watchlist（关注列表，股票软件最常用）、followed
+相关：related
